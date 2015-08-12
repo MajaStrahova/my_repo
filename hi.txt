@@ -1,3 +1,2 @@
 print("hi!");
 print("hello word!");
-print("hello word2!");
